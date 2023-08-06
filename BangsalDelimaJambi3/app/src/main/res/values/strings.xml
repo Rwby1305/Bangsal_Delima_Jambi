@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bangsal Delima Jambi</string>
+    <string name="password">Password</string>
+    <string name="masuk">Masuk</string>
+    <string name="register_now">Register Now</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="daftar">Daftar</string>
+    <string name="register">Register</string>
+    <string name="keluar">Keluar</string>
+</resources>
